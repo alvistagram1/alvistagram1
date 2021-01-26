@@ -35,5 +35,7 @@ Though I love to try new technologies, but my varied interest lies in Machine Le
 <h2>GitHub Stats :dart:</h2>
 <a href="https://github.com/alvistagram1/alvistagram1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvistagram1&prussian&show_icons=true&line_height=27&count_private=true&title_color=E53982&text_color=F0F3F4&icon_color=F5BCE9&bg_color=154360" alt="Abdullah's GitHub Stats" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvistagram1&layout=compact&&langs_count=6&theme=nightowl)](https://github.com/alvistagram1/github-readme-stats)
 </div> 
     
