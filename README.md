@@ -5,7 +5,7 @@
   <img src="https://pronouns.vercel.app/he/him?gradient=grapefruit%20sunset" width="256" height="64" alt="My pronouns are he/him">
 </a>
 
-I am a second year undergraduate at [Zakir Hussain College of Engineering and Technology,Aligarh Muslim University](www.amu.ac.in). I have been working as a Front End Developer from quite a while. I am also learning Backend Development.
+I am a third year undergraduate at [Zakir Hussain College of Engineering and Technology,Aligarh Muslim University](www.amu.ac.in). I have been working as a Front End Developer from quite a while. I am also learning Backend Development.
 
 Though I love to try new technologies, but my varied interest lies in Machine Learning and IoT. I am currently working on some research projects and personal projects.I am associated with [IEEE AMU](https://ieee-amu.netlify.app/), working as it's Co-ordinator for Industrial Interaction.I'm also associated with some other student communities and mentoring students. When I'm not in front of a computer screen, I'm probably playing Cricket, reading my favourite writers, Gossiping with friends or writing poems.
 
